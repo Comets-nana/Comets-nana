@@ -8,7 +8,7 @@
    
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Comets-nana&theme=tokyonight&show_icons=true" width="42%" />  
-</a>
+</a>  
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FComets-nana&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>  
@@ -23,3 +23,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>  
+
+
+### :books: SNS & Portfolio
+
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </t>](https://emphasized-chive-77a.notion.site/JAVA-e8d79e49f98a4575a2c7becdeacabe3b?pvs=4)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </t>]()
+[<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> </t>]()
