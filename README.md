@@ -4,7 +4,7 @@
 
 • :computer: Frontend Developer  
 • :heart: My interested Stack is Flutter.  
-• :pencil2: I often work around the front end, and sometimes I do Spring Boot.  
+• :pencil2: I often work around Frontend, and sometimes I do Spring Boot.  
    
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Comets-nana&theme=tokyonight&show_icons=true" width="42%" />  
