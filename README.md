@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyeonkim&layout=compact)
+<a href="https://github.com/Comets-nana"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comets-nana&layout=compact&theme=nord&hide_border=true" /></a>
