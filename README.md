@@ -23,10 +23,3 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>  
-
-
-### :books: SNS & Portfolio
-
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </t>](https://emphasized-chive-77a.notion.site/JAVA-e8d79e49f98a4575a2c7becdeacabe3b?pvs=4)
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </t>]()
-[<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> </t>]()
