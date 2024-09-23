@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comets-nana&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comets-nana&layout=compact)
