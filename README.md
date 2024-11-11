@@ -6,9 +6,9 @@
 • :heart: My interested Stack is Flutter.  
 • :pencil2: I often work around Frontend, and sometimes I do Spring Boot.  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnana1124)](https://solved.ac/kimnana1124/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnana1124)](https://solved.ac/kimnana1124/) 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Comets-nana&theme=tokyonight&show_icons=true" width="42%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Comets-nana&theme=tokyonight&show_icons=true" width="40%" />  
 </a>
 
 <p>
