@@ -7,10 +7,10 @@
 • :pencil2: I often work around Frontend, and sometimes I do Spring Boot.  
    
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Comets-nana&theme=tokyonight&show_icons=true" width="100%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Comets-nana&theme=tokyonight&show_icons=true" width="50%" />  
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnana1124)](https://solved.ac/kimnana1124/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimnana1124)](https://solved.ac/kimnana1124/)  
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FComets-nana&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>  
