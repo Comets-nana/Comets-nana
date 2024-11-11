@@ -9,7 +9,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Comets-nana&theme=tokyonight&show_icons=true" width="42%" />  
 </a>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnana1124)](https://solved.ac/kimnana1124/)  
 
 <p>
