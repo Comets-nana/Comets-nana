@@ -2,7 +2,7 @@
   
 ### :raising_hand: Introduce
 
-• :computer: Frontend Developer  
+• :computer: Flutter & Spring Boot Developer  
 • :heart: My interested Stack is Flutter.  
 • :pencil2: I often work around Frontend, and sometimes I do Spring Boot.  
    
