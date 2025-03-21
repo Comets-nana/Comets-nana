@@ -33,3 +33,6 @@
 <a href="https://emphasized-chive-77a.notion.site/2024-04-2024-09-10c3ae3479ba8083ade5ffbeeaffaf75?pvs=4">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://emphasized-chive-77a.notion.site/2024-04-2024-09-10c3ae3479ba8083ade5ffbeeaffaf75?pvs=4"/> </t>
 </a>
+<a href="https://velog.io/@nanadevlog/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@nanadevlog/posts"/> </t>
+</a>
