@@ -23,6 +23,7 @@
          <a href=mailto:kimnahyun1124@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimnahyun1124@gmail.com"> </a>
          <a href=https://www.notion.so/2024-04-2024-09-10c3ae3479ba8083ade5ffbeeaffaf75> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/2024-04-2024-09-10c3ae3479ba8083ade5ffbeeaffaf75"> </a>
          <a href=https://velog.io/@nanadevlog/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@nanadevlog/posts"> </a>
+         <a href=https://www.linkedin.com/in/nahyeon1124/> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/nahyeon1124/"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
