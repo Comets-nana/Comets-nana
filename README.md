@@ -19,7 +19,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.instagram.com/comets._.nana/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/zhapcmsksk/"> </a>
+    <div style="text-align: left;"> <a href=https://www.instagram.com/zhapcmsksk/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/zhapcmsksk/"> </a>
          <a href=mailto:kimnahyun1124@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimnahyun1124@gmail.com"> </a>
          <a href=https://www.notion.so/2024-04-2024-09-10c3ae3479ba8083ade5ffbeeaffaf75> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/2024-04-2024-09-10c3ae3479ba8083ade5ffbeeaffaf75"> </a>
          <a href=https://velog.io/@nanadevlog/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@nanadevlog/posts"> </a>
